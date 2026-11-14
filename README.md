@@ -10,6 +10,7 @@ Boston University Questrom MSBA projects exploring operational performance and c
 
 | Project | Question and scope | Tools |
 | --- | --- | --- |
+| [Hospital Supply-Chain Chatbot](https://github.com/hamza-tariq7/healthcare-chatbot) | Combining 200K synthetic inventory lots, 6,383 indexed passages, and 180 evaluation calls across three answer modes | Python, TF-IDF, Transformers, LLM evaluation |
 | [MBTA Transit Reliability Prediction](https://github.com/hamza-tariq7/mbta-transit-reliability) | Comparing classifiers with 979K service-performance records and daily weather, using a chronological outer train/test split | Python, scikit-learn, pandas, NOAA data |
 | [Wine Consumer Preferences & Market Insights](https://github.com/hamza-tariq7/775-Project) | Exploring wine attributes and winery benchmarks using 100,646 wine records and 150,000 cleaned ratings | SQL, BigQuery, Tableau |
 | [Recipe Popularity & Consumer Preferences](https://github.com/hamza-tariq7/780-Project) | Examining ingredients, nutrition, cooking time, and ratings in a matched cohort of 19,422 recipes | Python, pandas, Matplotlib, Seaborn |
