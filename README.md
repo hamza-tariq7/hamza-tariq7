@@ -4,7 +4,7 @@
 
 I'm an MSBA student at Boston University's Questrom School of Business. I use **Python, SQL, and visualization** to investigate customer preferences and operational performance, then communicate findings through dashboards and presentations.
 
-I'm seeking **full-time Data Analyst, Business Analyst, and Consumer Insights opportunities**, with Boston as my preferred location.
+I'm seeking **Full-time Data Analyst, Business Analyst, Marketing Analyst and Consumer Insights opportunities**, with Boston as my preferred location.
 
 **Python · SQL · BigQuery · Tableau · pandas · scikit-learn · Document Retrieval · LLM Evaluation**
 
