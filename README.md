@@ -1,18 +1,20 @@
 # Hamza Tariq
 
-## Data analytics, machine learning, and business insights
+### Data analytics · Business insights · Machine learning
 
-Boston University Questrom MSBA projects exploring operational performance and consumer preferences through data analysis.
+I'm an MSBA student at Boston University's Questrom School of Business. I use **Python, SQL, and visualization** to investigate customer preferences and operational performance, then communicate findings through dashboards and presentations.
 
-**Python · SQL · BigQuery · Tableau · scikit-learn · Machine Learning · Consumer Insights**
+I'm seeking **full-time Data Analyst, Business Analyst, and Consumer Insights opportunities**, with Boston as my preferred location.
+
+**Python · SQL · BigQuery · Tableau · pandas · scikit-learn · Document Retrieval · LLM Evaluation**
 
 ## Featured projects
 
-| Project | Question and scope | Tools |
+| Project | Highlights | Tools |
 | --- | --- | --- |
-| [Hospital Supply-Chain Chatbot](https://github.com/hamza-tariq7/healthcare-chatbot) | Combining 200K synthetic inventory lots, 6,383 indexed passages, and 180 evaluation calls across three answer modes | Python, TF-IDF, Transformers, LLM evaluation |
-| [MBTA Transit Reliability Prediction](https://github.com/hamza-tariq7/mbta-transit-reliability) | Comparing classifiers with 979K service-performance records and daily weather, using a chronological outer train/test split | Python, scikit-learn, pandas, NOAA data |
-| [Wine Consumer Preferences & Market Insights](https://github.com/hamza-tariq7/775-Project) | Exploring wine attributes and winery benchmarks using 100,646 wine records and 150,000 cleaned ratings | SQL, BigQuery, Tableau |
-| [Recipe Popularity & Consumer Preferences](https://github.com/hamza-tariq7/780-Project) | Examining ingredients, nutrition, cooking time, and ratings in a matched cohort of 19,422 recipes | Python, pandas, Matplotlib, Seaborn |
+| [Healthcare Supply-Chain Chatbot](https://github.com/hamza-tariq7/healthcare-chatbot) | Built inventory lookup and an alternative-drug recommender around 200K synthetic lots, 6,383 indexed passages, and 180 evaluation calls | Python, TF-IDF, Transformers |
+| [Wine Consumer Insights](https://github.com/hamza-tariq7/775-Project) | Analyzed 150K ratings with 100K+ wine records; built winery benchmarks and two Tableau dashboards | SQL, BigQuery, Tableau |
+| [MBTA Transit Reliability](https://github.com/hamza-tariq7/mbta-transit-reliability) | Combined 979K transit records with weather; compared classifiers using a chronological test period | Python, scikit-learn, pandas |
+| [Recipe Popularity Analysis](https://github.com/hamza-tariq7/780-Project) | Investigated engagement, ingredients, nutrition, and ratings in a matched sample of 19,422 recipes | Python, pandas, Seaborn |
 
-The project repositories include analysis notebooks, presentations, findings, and reproduction notes. These projects were completed as group coursework and are featured here as part of my analytics portfolio.
+Each project includes code, key findings, visuals, and a presentation. These projects were completed as group coursework and are featured as part of my analytics portfolio.
