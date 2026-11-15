@@ -12,9 +12,9 @@ I'm seeking **Full-time Data Analyst, Business Analyst, Marketing Analyst and Co
 
 | Project | Highlights | Tools |
 | --- | --- | --- |
-| [Healthcare Supply-Chain Chatbot](https://github.com/hamza-tariq7/healthcare-chatbot) | Built inventory lookup and an alternative-drug recommender around 200K synthetic lots, 6,383 indexed passages, and 180 evaluation calls | Python, TF-IDF, Transformers |
-| [Wine Consumer Insights](https://github.com/hamza-tariq7/775-Project) | Analyzed 150K ratings with 100K+ wine records; built winery benchmarks and two Tableau dashboards | SQL, BigQuery, Tableau |
-| [MBTA Transit Reliability](https://github.com/hamza-tariq7/mbta-transit-reliability) | Combined 979K transit records with weather; compared classifiers using a chronological test period | Python, scikit-learn, pandas |
-| [Recipe Popularity Analysis](https://github.com/hamza-tariq7/780-Project) | Investigated engagement, ingredients, nutrition, and ratings in a matched sample of 19,422 recipes | Python, pandas, Seaborn |
+| [Healthcare Supply-Chain Chatbot](https://github.com/hamza-tariq7/healthcare-chatbot) | Built a chatbot for hospital inventory and cost queries, alternative-drug recommendations, and evidence retrieval from healthcare documents | Python, TF-IDF, Transformers |
+| [Wine Consumer Insights](https://github.com/hamza-tariq7/775-Project) | Turned 150K consumer ratings into winery benchmarks and Tableau dashboards to uncover customer preferences and standout producers | SQL, BigQuery, Tableau |
+| [MBTA Transit Reliability](https://github.com/hamza-tariq7/mbta-transit-reliability) | Used 979K transit records and weather data to predict reliability and pinpoint peak-hour service gaps | Python, scikit-learn, pandas |
+| [Recipe Popularity Analysis](https://github.com/hamza-tariq7/780-Project) | Analyzed 19K+ recipes to uncover how ingredients, nutrition, and ratings relate to consumer engagement and popularity | Python, pandas, Seaborn |
 
-Each project includes code, key findings, visuals, and a presentation. These projects were completed as group coursework and are featured as part of my analytics portfolio.
+Explore the projects for business context, key findings, dashboards, and the code behind the analysis.
