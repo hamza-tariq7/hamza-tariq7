@@ -13,7 +13,7 @@ I'm seeking **Full-time Data Analyst, Business Analyst, Marketing Analyst and Co
 | Project | Highlights | Tools |
 | --- | --- | --- |
 | [Healthcare Supply-Chain Chatbot](https://github.com/hamza-tariq7/healthcare-chatbot) | Built a chatbot for hospital inventory and cost queries, alternative-drug recommendations, and evidence retrieval from healthcare documents | Python, TF-IDF, Transformers |
-| [Wine Consumer Insights](https://github.com/hamza-tariq7/775-Project) | Turned 150K consumer ratings into winery benchmarks and Tableau dashboards to uncover customer preferences and standout producers | SQL, BigQuery, Tableau |
+| [Wine Consumer Insights](https://github.com/hamza-tariq7/775-Project) | Turned 21M consumer ratings into winery benchmarks and Tableau dashboards to uncover customer preferences and standout producers | SQL, BigQuery, Tableau |
 | [MBTA Transit Reliability](https://github.com/hamza-tariq7/mbta-transit-reliability) | Used 979K transit records and weather data to predict reliability and pinpoint peak-hour service gaps | Python, scikit-learn, pandas |
 | [Recipe Popularity Analysis](https://github.com/hamza-tariq7/780-Project) | Analyzed 19K+ recipes to uncover how ingredients, nutrition, and ratings relate to consumer engagement and popularity | Python, pandas, Seaborn |
 
